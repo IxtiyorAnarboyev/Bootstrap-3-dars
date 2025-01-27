@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue;
+}
+p{
+    color: white;
+    text-align: center;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.a2{
+    border: 2px solid white;
+    border-radius: 50px;
+    margin-left: 450px;
+}
